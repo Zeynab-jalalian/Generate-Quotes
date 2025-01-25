@@ -9,8 +9,8 @@ body{
 .container{
     width: 95%;
     height: 100vh;
-    display: flex;
     text-align: center;
+    display: flex;
 }
 .container .quotes{
     width: 900px;
