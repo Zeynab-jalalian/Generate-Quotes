@@ -9,6 +9,7 @@ body{
 .container{
     width: 95%;
     height: 100vh;
+    margin: auto;
     display: flex;
     text-align: center;
     flex-direction: column;
