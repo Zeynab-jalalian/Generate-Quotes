@@ -10,6 +10,8 @@ body{
     width: 95%;
     height: 100vh;
     display: flex;
+    text-align: center;
+    flex-direction: column;
 }
 .container .quotes{
     width: 900px;
@@ -26,6 +28,10 @@ body{
 }
 .quotes p,.quotes h3{
     font-size: 1.5rem;
+}
+button{
+    margin-bottom: 40px;
+    margin-top: 5px;
 }
 @media(max-width:480px){
     .quotes p,.quotes h3{
